@@ -59,6 +59,8 @@ The script will perform the following steps:
 - Export the selected columns to an SQLite database table named uni_table.
 
 **Check the Database:** After running the script, you should find a new SQLite database file named universities.db. This database contains a table named uni_table with the extracted university data.
+<br>
+<img src=https://github.com/sularaperera/Simple-ETL-API-Universities-Python/blob/main/Images/sqlite.png></img>
 
 ## Conclusion
 The Python project effectively automates the process of collecting university data for a specific country and city, processing it using pandas, and storing it in an SQLite database. This project streamlines the entire process, making it easier to obtain and manage university information for various purposes.
