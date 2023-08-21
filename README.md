@@ -1,3 +1,5 @@
+<img src=https://github.com/sularaperera/Simple-ETL-API-Universities-Python/blob/main/Images/Banner.png></img>
+
 # Documentation: Automating University Data Collection and Storage
 
 
